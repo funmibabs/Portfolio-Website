@@ -1,0 +1,1 @@
+The updated professional profile section now shows the newly attached chair portrait as the large background image and the previous office portrait as the smaller foreground card. The stacking order reflects the user's request: the former back photo is now in front, and the prior foreground image has been replaced.

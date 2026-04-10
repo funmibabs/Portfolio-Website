@@ -1,0 +1,1 @@
+The previously shown yellow-jacket rounded portrait has been replaced with the office corridor portrait. The updated image is visible in the lower page card treatment and appears correctly cropped, rounded, and aligned with the existing layout styling.

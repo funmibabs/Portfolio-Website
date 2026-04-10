@@ -1,0 +1,7 @@
+- [ ] Upload the newly attached replacement portrait for CDN use in the website.
+- [ ] Update the layered profile photo section so the former background image becomes the front image.
+- [ ] Replace the other image in that layered composition with the newly attached portrait.
+- [ ] Review the updated section in the live site before delivering the revision.
+- [ ] Upload the newly requested replacement office portrait for CDN use.
+- [ ] Replace the currently displayed yellow-jacket rounded portrait with the requested office portrait.
+- [ ] Review the updated section on the live site and confirm the replacement before delivery.
